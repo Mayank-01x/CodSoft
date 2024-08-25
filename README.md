@@ -29,7 +29,6 @@ The projects included in this repository are:
 - 📝 Prompt the user to guess the number.
 - 📈 Provide feedback: "Too high" or "Too low".
 - 🔄 Continue until the user guesses the correct number.
-- 🏆 Display the number of attempts made.
 
 ---
 
